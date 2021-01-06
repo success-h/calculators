@@ -1,0 +1,16 @@
+{
+  "name": "my-calculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d my-calculator"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://success-h.github.io/calculators",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
